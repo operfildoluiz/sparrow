@@ -9,9 +9,11 @@
 Basta adicionar a série desejada no arquivo `shows.json` nesse formato:
 
 ```
-    {
-        "name": [String: Nome da série],
-        "eztv": [String: Slug no EZTV],
-        "code": [Integer: ID no EZTV]
-    }
+{
+    "name": [String: Nome da série],
+    "eztv": [String: Slug no EZTV],
+    "code": [Integer: ID no EZTV]
+}
 ```
+
+Para baixar, basta rodar no terminal: `node index`. Os arquivos estarão disponíveis no diretório `òutput`
