@@ -39,9 +39,10 @@ async function robot(show) {
        
         torrent.on('done', function() {
             progress.stop()
-            fs.renameSync(torrent.files[0], `output/${show.preparedCode}.mkv`)
+            fs.renameSync(torrent.files[0].name, `output/${show.preparedCode}.mkv`)
 
             removeTemporaryFiles()
+            console.log('Seu episódio foi baixado com sucesso!');
 
             return show;
         })

@@ -17,7 +17,6 @@ async function init () {
     }
     if (state) {
         state = await robots.downloader(state)
-        console.log('Seu episódio foi baixado com sucesso!');
     }
     
 }
