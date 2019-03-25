@@ -16,4 +16,4 @@ Basta adicionar a série desejada no arquivo `shows.json` nesse formato:
 }
 ```
 
-Para baixar, basta rodar no terminal: `node index`. Os arquivos estarão disponíveis no diretório `òutput`
+Para baixar, basta rodar no terminal: `node index`. Os arquivos estarão disponíveis no diretório `output`
