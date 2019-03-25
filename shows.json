@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Station 19",
+        "eztv": "station-19",
+        "code": 2725
+    },
+    {
+        "name": "Grey's Anatomy",
+        "eztv": "greys-anatomy",
+        "code": 111
+    },
+    {
+        "name": "Westworld",
+        "eztv": "westworld",
+        "code": 1913
+    }
+]

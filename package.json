@@ -1,0 +1,22 @@
+{
+  "name": "sparrow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "cli-progress": "^2.1.1",
+    "eztv": "^1.0.0",
+    "node-torrent": "^0.2.2",
+    "prompts": "^2.0.4",
+    "unzip": "^0.1.11",
+    "webtorrent": "^0.103.1"
+  }
+}
