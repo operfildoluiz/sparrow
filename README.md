@@ -4,6 +4,8 @@
 
 **Importante**: É pra consumo próprio 😆
 
+[![](https://i.postimg.cc/kGT7gK3k/demo.gif)](https://postimg.cc/V00x7SNR)
+
 ## Adicionando séries
 
 Basta adicionar a série desejada no arquivo `shows.json` nesse formato:
